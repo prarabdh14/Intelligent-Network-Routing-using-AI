@@ -16,7 +16,6 @@ This combination of techniques results in a routing system that can dynamically 
 - [Project Structure](#project-structure)
 - [Algorithms and Approach](#algorithms-and-approach)
 - [Future Work](#future-work)
-- [License](#license)
 
 ## Features
 
@@ -93,14 +92,6 @@ Upon running the script, you should see:
 - **Dynamic Traffic Patterns**: Allow real-time traffic changes and see how the algorithms adapt.
 - **Implement More Sophisticated Reward Functions**: Experiment with multi-objective rewards combining multiple network quality factors.
 - **Enhance ACO**: Implement adaptive pheromone decay rates based on path quality.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-Feel free to customize any section to better describe specific aspects of your project or to provide additional usage details.
 
 
 
